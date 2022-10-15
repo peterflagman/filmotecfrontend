@@ -1,6 +1,9 @@
 {
   "name": "vue-3-crud",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.14.2"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
