@@ -83,7 +83,7 @@ import Content from "../components/Content";
 
 export default {
   name: "tutorials-list",
-  components: {
+  Component: {
     Content,
     TutorialDataService,
     CustomerDataService,
