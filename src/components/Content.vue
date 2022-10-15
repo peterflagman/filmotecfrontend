@@ -12,7 +12,7 @@ import TutorialDataService from "../services/TutorialDataService";
 
 export default {
   name:"content",
-  components:{
+  Component:{
     //TutorialsList,
     TutorialDataService
   },
