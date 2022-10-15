@@ -84,7 +84,10 @@ import Content from "../components/Content";
 export default {
   name: "tutorials-list",
   components: {
-    Content    
+    Content,
+    TutorialDataService,
+    CustomerDataService,
+    ScoreDataService    
   },
   data() {
     return {
